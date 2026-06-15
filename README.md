@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **krisha19115@gmail.com** For Collaboration/Project or Anyt
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krisha Prajapati CTE-GECBVN_IT) [! [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krisha19115@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krisha Prajapati CTE-GECBVN_IT) 
 
 <!-- Snake Game Repo View -->
 
